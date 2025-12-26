@@ -34,3 +34,8 @@ nav_order: 4
 
 - [Saudi Research Science Institute (SRSI)](https://academy.kaust.edu.sa/program/pre-university/srsi/), 2025
 - [Challenge@PoliTo by Students -- Space Economy: Take Your Startup to Space](https://clik.polito.it/en/challenge/space-economy-take-your-start-up-to-space-_by-students/), 2022
+
+---
+
+#### Participation in EU projects
+- **SUPER** (M4C2 -- Programmable Networks for Future Services and Media), *NextGenerationEU, NRRP Italy*, 2022-2024. 
