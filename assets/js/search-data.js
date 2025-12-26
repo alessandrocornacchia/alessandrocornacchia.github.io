@@ -10,22 +10,22 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-news",
-          title: "news",
+          title: "News",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/news/";
           },
         },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-service",
-          title: "service",
-          description: "Teaching and professional service activities.",
+          title: "Service",
+          description: "Community service and teaching activities.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/service/";
