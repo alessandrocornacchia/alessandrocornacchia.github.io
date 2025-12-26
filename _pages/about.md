@@ -1,20 +1,21 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral Researcher @ <a href='https://sands.kaust.edu.sa/'>SANDS Lab</a>, <a href='https://www.kaust.edu.sa/'>KAUST</a>
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Building 1, Office 1-4418</p>
+    <p>4700 KAUST</p>
+    <p>Thuwal 23955-6900, SA</p>
+    
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -22,13 +23,18 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+scholar:
+  group_by: none
+  sort_by: year
+  order: descending
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Postdoctoral Researcher at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/), working in the [SANDS Lab](https://sands.kaust.edu.sa/) led by [Prof. Marco Canini](https://mcanini.github.io/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests span **computer networks** and **distributed systems**, with a focus on network monitoring, observability, and the application of agentic AI techniques to networked systems. More specifically, I am passionate about building systems that leverage programmable hardware for efficient data plane telemetry and exploring how Large Language Models can assist in network troubleshooting and failure analysis.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my Ph.D. in Electrical, Electronics and Communications Engineering from [Politecnico di Torino](https://www.polito.it/) (Italy) in 2024, where I was advised by [Prof. Paolo Giaccone](https://www.telematica.polito.it/member/paolo-giaccone/) and [Prof. Andrea Bianco](https://www.telematica.polito.it/member/andrea-bianco/). I also hold an M.S. in Communications and Computer Networks Engineering (2020) from Politecnico di Torino and a B.Eng. in Computer Engineering (2017) from [Università di Bologna](https://www.unibo.it/).

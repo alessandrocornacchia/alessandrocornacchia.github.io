@@ -1,9 +1,53 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# # Conference and journal venue styles for publication badges
+# "SIGIR":
+#   url: https://sigir.org/
+#   color: "#1565c0"
 
-"PhysRev":
-  url: https://journals.aps.org/
+# "APSys":
+#   url: https://ap-sys.org/
+#   color: "#7b1fa2"
 
-"Vision":
-  color: "#009f36"
+# "SIGCOMM":
+#   url: https://www.sigcomm.org/
+#   color: "#00695c"
+
+# "CoNEXT":
+#   url: https://conferences.sigcomm.org/co-next/
+#   color: "#ef6c00"
+
+# "IMC":
+#   url: https://www.sigcomm.org/events/imc-conference
+#   color: "#c62828"
+
+# "NSDI":
+#   url: https://www.usenix.org/conference/nsdi
+#   color: "#2e7d32"
+
+# "NOMS":
+#   url: https://noms.ieee-noms.org/
+#   color: "#1976d2"
+
+# "HPSR":
+#   url: https://hpsr.ieee-hpsr.org/
+#   color: "#5d4037"
+
+# "NetObs":
+#   color: "#6a1b9a"
+
+# "ComCom":
+#   url: https://www.journals.elsevier.com/computer-communications
+#   color: "#00838f"
+
+# "PEMWN":
+#   color: "#455a64"
+
+# "MedComNet":
+#   color: "#546e7a"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#757575"
+
+"Preprint":
+  # color: "#616161"
+  color: "#b71c1c"
