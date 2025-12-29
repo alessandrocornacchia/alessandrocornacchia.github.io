@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Building 1, Office 1-4418</p>
+    <p>Building 1, Office 1-4413</p>
     <p>4700 KAUST</p>
     <p>Thuwal 23955-6900, SA</p>
     
