@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-🚀 [NIKA](https://github.com/sands-lab/nika) released! Our benchmark for network troubleshooting AI agents is offically out.
+🚀 [NIKA](https://github.com/sands-lab/nika) officially released! This benchmark reproduces more than 500 realistic network incidents to evaluate AI agents on network troubleshooting.
