@@ -10,6 +10,7 @@
   year={2022},
   publisher={Elsevier},
   abbr={ComCom},
+  bibtex_show={true}
 }
 
 @inproceedings{cornacchia2022designing,
@@ -19,7 +20,8 @@
   pages={1--6},
   year={2022},
   organization={IEEE},
-  abbr={IEEE PEMWN}
+  abbr={IEEE PEMWN},
+  bibtex_show={true}
 }
 
 @inproceedings{cornacchia2021traffic,
@@ -29,7 +31,8 @@
   pages={1--4},
   year={2021},
   organization={IEEE},
-  abbr={IEEE MedComNet}
+  abbr={IEEE MedComNet},
+  bibtex_show={true}
 }
 
 @inproceedings{cornacchia2023microview,
@@ -39,6 +42,7 @@
   pages={7--8},
   year={2023},
   abbr={ACM CoNEXT-SW},
+  bibtex_show={true}
 }
 
 @inproceedings{cornacchia2024big,
@@ -48,7 +52,8 @@
   pages={43--48},
   year={2024},
   organization={IEEE},
-  abbr={IEEE HPSR}
+  abbr={IEEE HPSR},
+  bibtex_show={true}
 }
 
 @inproceedings{wang2025towards,
@@ -58,6 +63,7 @@
   pages={1--3},
   year={2025},
   abbr={ACM NGNO},
+  bibtex_show={true}
 }
 
 @inproceedings{garetto2025information,
@@ -68,6 +74,10 @@
   year={2025},
   abbr={ACM SIGIR},
   selected={true},
+  preview={rgb-cover.png},
+  bibtex_show={true},
+  pdf={sigir25-informatation-retrieval-garetto.pdf},
+  abstract={The advent of Large Language Models (LLMs) and generative AI is fundamentally transforming information retrieval and processing on the Internet, bringing both great potential and significant concerns regarding content authenticity and reliability. This paper presents a novel quantitative approach to shed light on the complex information dynamics arising from the growing use of generative AI tools. Despite their significant impact on the digital ecosystem, these dynamics remain largely uncharted and poorly understood. We propose a stochastic model to characterize the generation, indexing, and dissemination of information in response to new topics. This scenario particularly challenges current LLMs, which often rely on real-time Retrieval-Augmented Generation (RAG) techniques to overcome their static knowledge limitations. Our findings suggest that the rapid pace of generative AI adoption, combined with increasing user reliance, can outpace human verification, escalating the risk of inaccurate information proliferation across digital resources. An in-depth analysis of Stack Exchange data confirms that high-quality answers inevitably require substantial time and human effort to emerge. This underscores the considerable risks associated with generating persuasive text in response to new questions and highlights the critical need for responsible development and deployment of future generative AI tools.}
 }
 
 @article{wang2025chamaleonet,
@@ -76,6 +86,7 @@
   journal={arXiv preprint arXiv:2508.12496},
   year={2025},
   abbr={arXiv},
+  bibtex_show={true}
 }
 
 @inproceedings{cornacchia2025between,
@@ -84,8 +95,13 @@
   booktitle={Proceedings of the 16th ACM SIGOPS Asia-Pacific Workshop on Systems},
   pages={155--167},
   year={2025},
+  abstract={Large Language Models (LLMs) are increasingly explored as general-purpose assistants for infrastructure operations, helping automate tasks like querying data, analyzing logs, and suggesting fixes. In this paper, we consider the more general and ambitious problem of fully automating root cause analysis (RCA) in microservice systems, where LLMs must collect information, reason about it, and interact with the environment to detect, localize and resolve issues. Anecdotal evidence offers useful insights and partial solutions, but the broader challenge remains unresolved. We systematically evaluate multiple LLM agent architectures across a range of incident scenarios. We study how different tool-augmented agents perform, and shed light on common failure modes, including hallucinated reasoning paths and inefficient use of context. Our findings reveal both the promise and the limitations of current approaches, and point to concrete directions for more robust and effective use of LLMs in this domain.},
   abbr={ACM APSys},
-  selected={true}
+  selected={true},
+  preview={kashef-cover.png},
+  slides={slides/apsys25-cornacchia.pptx},
+  pdf={apsys25-llm-failure-analysis-cornacchia.pdf},
+  bibtex_show={true}
 }
 
 @inproceedings{sordello2025poster,
@@ -95,7 +111,7 @@
   pages={1078--1079},
   year={2025},
   abbr={ACM IMC},
-  selected={true}
+  bibtex_show={true}
 }
 
 @article{cornacchia2025dmas,
@@ -104,6 +120,7 @@
   journal={arXiv preprint arXiv:2510.11872},
   year={2025},
   abbr={arXiv},
+  bibtex_show={true}
 }
 
 @inproceedings{salsano2025sharing,
@@ -112,7 +129,8 @@
   booktitle={IEEE Network Operations and Management Symposium},
   pages={1--5},
   year={2025},
-  abbr={IEEE NOMS}
+  abbr={IEEE NOMS},
+  bibtex_show={true}
 }
 
 @inproceedings{cornacchiaobservability,
@@ -121,7 +139,12 @@
   year={2026},
   booktitle={USENIX Symposium on Networked Systems Design and Implementation (NSDI)},
   abbr={USENIX NSDI},
-  selected={true}
+  selected={true},
+  preview={uview-cover.png},
+  bibtex_show={true},
+  code={https://github.com/sands-lab/uview.git},
+  pdf={nsdi26-uview-cornacchia.pdf},
+  abstract={Observability has become mission-critical for troubleshooting cloud-native technology. However, today’s observability fails to meet the demands of cloud-native environments, either resulting in crippling complexity and high costs for collecting and storing huge data volumes, or sacrificing events coverage by sampling at coarse time granularity. We present µView, which stands out from conventional cloud monitors by incorporating a lightweight observability data-plane on Infrastructure Processing Units (IPUs). Our novel architecture leverages the proximity of IPUs to the monitored services to tackle observability bloat. Crucially, µView’s data-plane applies streaming data sketching techniques to continuously process and analyze microservice’s metrics at fine time resolution, without hurting application performance. We show for several use cases that by anticipating SLO violations µView can help (i) narrow the focus on informative observability data, and (ii) trigger useful signals about service performance, thus enabling timely proactive actions.}
 }
 
 @article{wang2025network,
@@ -130,7 +153,12 @@
   journal={arXiv preprint arXiv:2512.16381},
   year={2025},
   abbr={arXiv},
-  selected={true}
+  selected={true},
+  preview={nika-cover.png},
+  bibtex_show={true},
+  pdf={arxiv25-nika-wang.pdf},
+  code={https://github.com/sands-lab/nika},
+  abstract={Agentic systems, powered by Large Language Models (LLMs), assist network engineers with network configuration synthesis and network troubleshooting tasks. For network troubleshooting, progress is hindered by the absence of standardized and accessible benchmarks for evaluating LLM agents in dynamic network settings at low operational effort. We present NIKA, the largest public benchmark to date for LLM-driven network incident diagnosis and troubleshooting. NIKA targets both domain experts and especially AI researchers alike, providing zero-effort replay of real-world network scenarios, and establishing well-defined agent-network interfaces for quick agent prototyping. NIKA comprises hundreds of curated network incidents, spanning five network scenarios, from data centers to ISP networks, and covers 54 representative network issues. Lastly, NIKA is modular and extensible by design, offering APIs to facilitate the integration of new network scenarios and failure cases. We evaluate state-of-the-art LLM agents on NIKA and find that while larger models succeed more often in detecting network issues, they still struggle to localize faults and identify root causes.}
 }
 
 @article{ma2026maestro,
@@ -139,4 +167,5 @@
   journal={arXiv preprint arXiv:2601.00481},
   year={2026},
   abbr={arXiv},
+  bibtex_show={true}
 }

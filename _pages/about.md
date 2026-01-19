@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Researcher @ <a href='https://sands.kaust.edu.sa/'>SANDS Lab</a>, <a href='https://www.kaust.edu.sa/'>KAUST</a>
+subtitle: Postdoctoral Researcher, <a href='https://www.kaust.edu.sa/'>KAUST</a>
 
 profile:
   align: left
@@ -33,8 +33,8 @@ scholar:
   order: descending
 ---
 
-I am a Postdoctoral Researcher at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/), working in the [SANDS Lab](https://sands.kaust.edu.sa/) led by [Prof. Marco Canini](https://mcanini.github.io/).
+I am a Postdoctoral Researcher at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/), member of [SANDS Lab](https://sands.kaust.edu.sa/) led by [Prof. Marco Canini](https://mcanini.github.io/).
 
-My research interests span **computer networks** and **distributed systems**, with a focus on network monitoring, observability, and the application of agentic AI techniques to networked systems. More specifically, I am passionate about building systems that leverage programmable hardware for efficient network telemetry in the data plane, and exploring how Large Language Models can assist troubleshooting and failure analysis.
+My research interests span **computer networks** and **distributed systems**, with a focus on network monitoring, observability, and the application of agentic AI techniques to networked systems. I am exploring how Large Language Models can assist cloud operators with incident troubleshooting and failure analysis, and how we can build cost-efficient systems for observability by leveraging programmable network hardware. 
 
-I received my Ph.D. in Electrical, Electronics and Communications Engineering from [Politecnico di Torino](https://www.polito.it/) (Italy) in 2024, where I was advised by [Prof. Paolo Giaccone](https://www.telematica.polito.it/member/paolo-giaccone/) and [Prof. Andrea Bianco](https://www.telematica.polito.it/member/andrea-bianco/). I also hold an M.S. in Communications and Computer Networks Engineering (2020) from Politecnico di Torino and a B.Eng. in Computer Engineering (2017) from [Università di Bologna](https://www.unibo.it/).
+I received my Ph.D. in Electrical, Electronics and Communications Engineering from [Politecnico di Torino](https://www.polito.it/) (Italy) in 2024, where I was advised by [Prof. Paolo Giaccone](https://www.telematica.polito.it/member/paolo-giaccone/) and [Prof. Andrea Bianco](https://www.telematica.polito.it/member/andrea-bianco/). I hold a M.S. in Communications and Computer Networks Engineering (2020) from Politecnico di Torino and a B.Eng. in Computer Engineering (2017) from [Università di Bologna](https://www.unibo.it/).

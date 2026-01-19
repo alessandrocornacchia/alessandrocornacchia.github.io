@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-#### Program committees
+#### Program Committee member
 
 - [RSAIS 2026](https://www.kaust.edu.sa/events/rsais26/) -- KAUST Rising Stars AI Symposium
 - [INET4AI 2025](https://irtf-net4ai.github.io/inet4ai/cfp.html), co-located with ACM CoNEXT -- 1st Workshop on Inter-networking challenges for AI
@@ -18,9 +18,9 @@ nav_order: 4
 - IEEE/ACM Transactions on Networking (TNET)
 - ACM SIGCOMM Computer Communication Review (CCR)
 - IEEE Transactions on Network and Service Management (TNSM)
-- Computer Networks (Elsevier)
-- Computer Communications (Elsevier)
 - IEEE GLOBECOM
+- Elsevier Computer Networks Journal (COMNET)
+- Elsevier Computer Communications Journal (COMCOM)
 
 ---
 
@@ -28,7 +28,7 @@ nav_order: 4
 
 - **Teaching Assistant**: [01QWGBG -- Computer Networks Design and Management](https://www.telematica.polito.it/course/computer-network-design-and-management/), Master's level, *Politecnico di Torino*, 2022
 - **Laboratory Assistant**: [01QWGBG -- Laboratory on SDN and P4](https://www.telematica.polito.it/app/uploads/2021/12/labs.pdf), Master's level, *Politecnico di Torino*, 2021, 2022
-- **Teaching Assistant**: [Telemedicine](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01UQVMV&p_a_acc=2022&p_header=S&p_lang=EN&multi=N), Master's level, *Politecnico di Torino*, 2021
+- **Teaching Assistant**: [01UQVMV -- Telemedicine](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01UQVMV&p_a_acc=2022&p_header=S&p_lang=EN&multi=N), Master's level, *Politecnico di Torino*, 2021
 
 #### Mentorship
 
