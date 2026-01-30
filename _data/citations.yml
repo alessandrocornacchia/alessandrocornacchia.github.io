@@ -1,10 +1,14 @@
 metadata:
-  last_updated: '2026-01-12'
+  last_updated: '2026-01-30'
 papers:
   xxEo3k4AAAAJ:-f6ydRqryjwC:
-    citations: 1
+    citations: 3
     title: 'Information Retrieval in the Age of Generative AI: The RGB Model'
     year: '2025'
+  xxEo3k4AAAAJ:4JMBOYKVnBMC:
+    citations: 0
+    title: The Potential of Erroneous Outbound Traffic Analysis to Unveil Silent Internal Anomalies
+    year: '2026'
   xxEo3k4AAAAJ:7PzlFSSx8tAC:
     citations: 1
     title: "A \u201CBig-Spine\u201D Abstraction: Flow Prioritization With Spatial Diversity in The Data Center Network"
@@ -22,7 +26,7 @@ papers:
     title: 'MicroView: Cloud-Native Observability with Temporal Precision'
     year: '2023'
   xxEo3k4AAAAJ:R3hNpaxXUhUC:
-    citations: 0
+    citations: 1
     title: Sharing GPUs and Programmable Switches in a Federated Testbed with SHARY
     year: '2025'
   xxEo3k4AAAAJ:RHpTSmoSYBkC:
@@ -54,7 +58,7 @@ papers:
     title: Towards a Playground to Democratize Experimentation and Benchmarking of AI Agents for Network Troubleshooting
     year: '2025'
   xxEo3k4AAAAJ:hFOr9nPyWt4C:
-    citations: 1
+    citations: 2
     title: 'ChamaleoNet: Programmable Passive Probe for Enhanced Visibility on Erroneous Traffic'
     year: '2025'
   xxEo3k4AAAAJ:mB3voiENLucC:
