@@ -86,7 +86,8 @@
   journal={arXiv preprint arXiv:2508.12496},
   year={2025},
   abbr={arXiv},
-  bibtex_show={true}
+  bibtex_show={true},
+  pdf={ton26-R1-chamaleonet-wang.pdf},
 }
 
 @inproceedings{cornacchia2025between,
@@ -168,4 +169,16 @@
   year={2026},
   abbr={arXiv},
   bibtex_show={true}
+}
+
+@article{dahmane2026opportunistic,
+  title={Opportunistic Telemetry Transport in Hardware-Accelerated Observability Pipelines},
+  author={Dahmane, H.A. Chikh and Cornacchia, Alessandro and Canini, Marco},
+  journal={Workshop on Computation over Heterogeneous Networks, in conjuction with IEEE INFOCOM},
+  year={2026},
+  abbr={NetCompute},
+  bibtex_show={false},
+  pdf={netcompute26-dahmane.pdf},
+  abstract={High-frequency telemetry is crucial to understand performance and failures in microservice-based cloud systems, but exporting metrics at sub-second granularity can contend with application traffic and saturate shared I/O resources such as PCIe, even when collection is offloaded to SmartNICs or Infrastructure Processing Units (IPUs). Existing designs typically rely on dedicated telemetry packets or frequent RDMA reads, which introduce extra system calls, DMA operations, and PCIe transactions. This work-in-progress paper explores an alternative, event-driven design: opportunistically collecting and transporting host metrics by piggybacking them on sub-MTU application packets already destined for the network. We attach eBPF programs to the transmit path so that, when a sub-MTU packet is sent, the kernel can \emph{reuse} this I/O event to (1) read system metrics -- thus amortizing the cost of context switches -- and (2) embed telemetry before the packet traverses PCIe -- thus avoiding new transactions for telemetry packets; the SmartNIC then strips and aggregates this metadata for downstream analysis. We sketch the architecture of this opportunistic telemetry transport, outline key challenges, and present an initial evaluation to quantify overheads in containerized microservice workloads.},
+  preview={netcompute26-cover.png},
 }
