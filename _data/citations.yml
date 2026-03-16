@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-01-30'
+  last_updated: '2026-03-16'
 papers:
   xxEo3k4AAAAJ:-f6ydRqryjwC:
-    citations: 3
+    citations: 4
     title: 'Information Retrieval in the Age of Generative AI: The RGB Model'
     year: '2025'
   xxEo3k4AAAAJ:4JMBOYKVnBMC:
@@ -30,7 +30,7 @@ papers:
     title: Sharing GPUs and Programmable Switches in a Federated Testbed with SHARY
     year: '2025'
   xxEo3k4AAAAJ:RHpTSmoSYBkC:
-    citations: 0
+    citations: 1
     title: 'MAESTRO: Multi-Agent Evaluation Suite for Testing, Reliability, and Observability'
     year: '2026'
   xxEo3k4AAAAJ:TQgYirikUcIC:
@@ -61,11 +61,19 @@ papers:
     citations: 2
     title: 'ChamaleoNet: Programmable Passive Probe for Enhanced Visibility on Erroneous Traffic'
     year: '2025'
+  xxEo3k4AAAAJ:j3f4tGmQtD8C:
+    citations: 1
+    title: Optimized Flow Scheduling for Low Latency Data Center Networks
+    year: '2020'
   xxEo3k4AAAAJ:mB3voiENLucC:
-    citations: 2
+    citations: 3
     title: 'Between Promise and Pain: The Reality of Automating Failure Analysis in Microservices with LLMs'
     year: '2025'
   xxEo3k4AAAAJ:mVmsd5A6BfQC:
     citations: 5
     title: A traffic-aware perspective on network disaggregated sketches
     year: '2021'
+  xxEo3k4AAAAJ:r0BpntZqJG4C:
+    citations: 0
+    title: 'PETS: Inference-Time Differentially Private Synthetic Time Series Generation'
+    year: Unknown Year
