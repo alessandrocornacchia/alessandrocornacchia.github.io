@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-16'
+  last_updated: '2026-03-20'
 papers:
   xxEo3k4AAAAJ:-f6ydRqryjwC:
     citations: 4
@@ -46,7 +46,7 @@ papers:
     title: A Network Arena for Benchmarking AI Agents on Network Troubleshooting
     year: '2025'
   xxEo3k4AAAAJ:aqlVkmm33-oC:
-    citations: 6
+    citations: 7
     title: 'Staggered HLL: Near-continuous-time cardinality estimation with no overhead'
     year: '2022'
   xxEo3k4AAAAJ:e5wmG9Sq2KIC:
