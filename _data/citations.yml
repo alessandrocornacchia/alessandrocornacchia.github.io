@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-04-29'
 papers:
   xxEo3k4AAAAJ:-f6ydRqryjwC:
     citations: 4
@@ -30,7 +30,7 @@ papers:
     title: Sharing GPUs and Programmable Switches in a Federated Testbed with SHARY
     year: '2025'
   xxEo3k4AAAAJ:RHpTSmoSYBkC:
-    citations: 1
+    citations: 2
     title: 'MAESTRO: Multi-Agent Evaluation Suite for Testing, Reliability, and Observability'
     year: '2026'
   xxEo3k4AAAAJ:TQgYirikUcIC:
