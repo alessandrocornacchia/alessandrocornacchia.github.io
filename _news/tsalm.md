@@ -5,4 +5,4 @@ inline: true
 related_posts: true
 ---
 
-📈📉 Congratulations [Yangzhixin](https://sands.kaust.edu.sa/authors/yangzhixin-luo/)! *PETS: Inference-Time Differentially Private Synthetic Time Series Generation* accepted at 1st ICLR Workshop on Time Series in the Age of Large Models (TSALM). Work done in collaboration with [Chenxi Liu](https://chenxiliu-hnu.github.io/homepage/) @ CAIR, Hong Kong Institute of Science & Innovation.
+📈📉 Congratulations [Yangzhixin](https://sands.kaust.edu.sa/authors/yangzhixin-luo/)! Our paper [PETS: Inference-Time Differentially Private Synthetic Time Series Generation](https://openreview.net/forum?id=ubsnu8YA0z) is accepted at 1st ICLR Workshop on Time Series in the Age of Large Models (TSALM). Work done in collaboration with [Chenxi Liu](https://chenxiliu-hnu.github.io/homepage/) @ CAIR, Hong Kong Institute of Science & Innovation.
