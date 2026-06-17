@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-17'
 papers:
   xxEo3k4AAAAJ:-f6ydRqryjwC:
     citations: 6
@@ -42,11 +42,11 @@ papers:
     title: Designing Probabilistic Flow Counting over Sliding Windows
     year: '2022'
   xxEo3k4AAAAJ:_Qo2XoVZTnwC:
-    citations: 1
+    citations: 2
     title: A Network Arena for Benchmarking AI Agents on Network Troubleshooting
     year: '2025'
   xxEo3k4AAAAJ:aqlVkmm33-oC:
-    citations: 6
+    citations: 7
     title: 'Staggered HLL: Near-continuous-time cardinality estimation with no overhead'
     year: '2022'
   xxEo3k4AAAAJ:bEWYMUwI8FkC:
