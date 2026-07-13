@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-07-13'
 papers:
   xxEo3k4AAAAJ:-f6ydRqryjwC:
     citations: 7
@@ -66,6 +66,10 @@ papers:
     title: 'ChamaleoNet: Programmable Passive Probe for Enhanced Visibility on Erroneous Traffic'
     year: '2025'
   xxEo3k4AAAAJ:iH-uZ7U-co4C:
+    citations: 0
+    title: Opportunistic Telemetry Transport in Hardware-Accelerated Observability Pipelines
+    year: '2026'
+  xxEo3k4AAAAJ:isC4tDSrTZIC:
     citations: 0
     title: Opportunistic Telemetry Transport in Hardware-Accelerated Observability Pipelines
     year: '2026'
