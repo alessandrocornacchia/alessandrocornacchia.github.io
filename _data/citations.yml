@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-05'
 papers:
   xxEo3k4AAAAJ:-f6ydRqryjwC:
     citations: 8
@@ -31,7 +31,7 @@ papers:
     year: '2025'
   xxEo3k4AAAAJ:RHpTSmoSYBkC:
     citations: 6
-    title: 'MAESTRO: Multi-Agent Evaluation Suite for Testing, Reliability, and Observability'
+    title: 'Maestro: Multi-agent evaluation suite for testing, reliability, and observability'
     year: '2026'
   xxEo3k4AAAAJ:TQgYirikUcIC:
     citations: 1
@@ -42,8 +42,8 @@ papers:
     title: Designing Probabilistic Flow Counting over Sliding Windows
     year: '2022'
   xxEo3k4AAAAJ:_Qo2XoVZTnwC:
-    citations: 4
-    title: A Network Arena for Benchmarking AI Agents on Network Troubleshooting
+    citations: 6
+    title: A network arena for benchmarking ai agents on network troubleshooting
     year: '2025'
   xxEo3k4AAAAJ:aqlVkmm33-oC:
     citations: 7
@@ -59,7 +59,7 @@ papers:
     year: '2026'
   xxEo3k4AAAAJ:hC7cP41nSMkC:
     citations: 2
-    title: Towards a Playground to Democratize Experimentation and Benchmarking of AI Agents for Network Troubleshooting
+    title: Towards a playground to democratize experimentation and benchmarking of AI agents for network troubleshooting
     year: '2025'
   xxEo3k4AAAAJ:hFOr9nPyWt4C:
     citations: 4
@@ -79,7 +79,7 @@ papers:
     year: '2020'
   xxEo3k4AAAAJ:mB3voiENLucC:
     citations: 5
-    title: 'Between Promise and Pain: The Reality of Automating Failure Analysis in Microservices with LLMs'
+    title: 'Between promise and pain: The reality of automating failure analysis in microservices with llms'
     year: '2025'
   xxEo3k4AAAAJ:mVmsd5A6BfQC:
     citations: 5
