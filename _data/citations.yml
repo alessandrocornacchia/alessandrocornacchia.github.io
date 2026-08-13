@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-06-26'
+  last_updated: '2026-08-10'
 papers:
   xxEo3k4AAAAJ:-f6ydRqryjwC:
-    citations: 6
+    citations: 8
     title: 'Information Retrieval in the Age of Generative AI: The RGB Model'
     year: '2025'
   xxEo3k4AAAAJ:4JMBOYKVnBMC:
@@ -14,7 +14,7 @@ papers:
     title: "A \u201CBig-Spine\u201D Abstraction: Flow Prioritization With Spatial Diversity in The Data Center Network"
     year: '2024'
   xxEo3k4AAAAJ:HDshCWvjkbEC:
-    citations: 1
+    citations: 2
     title: 'Poster: The Potential of Erroneous Outbound Traffic Analysis to Unveil Silent Internal Anomalies'
     year: '2025'
   xxEo3k4AAAAJ:L8Ckcad2t8MC:
@@ -31,7 +31,7 @@ papers:
     year: '2025'
   xxEo3k4AAAAJ:RHpTSmoSYBkC:
     citations: 6
-    title: 'MAESTRO: Multi-Agent Evaluation Suite for Testing, Reliability, and Observability'
+    title: 'Maestro: Multi-agent evaluation suite for testing, reliability, and observability'
     year: '2026'
   xxEo3k4AAAAJ:TQgYirikUcIC:
     citations: 1
@@ -42,8 +42,8 @@ papers:
     title: Designing Probabilistic Flow Counting over Sliding Windows
     year: '2022'
   xxEo3k4AAAAJ:_Qo2XoVZTnwC:
-    citations: 3
-    title: A Network Arena for Benchmarking AI Agents on Network Troubleshooting
+    citations: 7
+    title: A network arena for benchmarking ai agents on network troubleshooting
     year: '2025'
   xxEo3k4AAAAJ:aqlVkmm33-oC:
     citations: 7
@@ -59,23 +59,27 @@ papers:
     year: '2026'
   xxEo3k4AAAAJ:hC7cP41nSMkC:
     citations: 2
-    title: Towards a Playground to Democratize Experimentation and Benchmarking of AI Agents for Network Troubleshooting
+    title: Towards a playground to democratize experimentation and benchmarking of AI agents for network troubleshooting
     year: '2025'
   xxEo3k4AAAAJ:hFOr9nPyWt4C:
-    citations: 3
+    citations: 4
     title: 'ChamaleoNet: Programmable Passive Probe for Enhanced Visibility on Erroneous Traffic'
     year: '2025'
   xxEo3k4AAAAJ:iH-uZ7U-co4C:
     citations: 0
     title: Opportunistic Telemetry Transport in Hardware-Accelerated Observability Pipelines
-    year: Unknown Year
+    year: '2026'
+  xxEo3k4AAAAJ:isC4tDSrTZIC:
+    citations: 0
+    title: Opportunistic Telemetry Transport in Hardware-Accelerated Observability Pipelines
+    year: '2026'
   xxEo3k4AAAAJ:j3f4tGmQtD8C:
     citations: 1
     title: Optimized Flow Scheduling for Low Latency Data Center Networks
     year: '2020'
   xxEo3k4AAAAJ:mB3voiENLucC:
     citations: 5
-    title: 'Between Promise and Pain: The Reality of Automating Failure Analysis in Microservices with LLMs'
+    title: 'Between promise and pain: The reality of automating failure analysis in microservices with llms'
     year: '2025'
   xxEo3k4AAAAJ:mVmsd5A6BfQC:
     citations: 5
