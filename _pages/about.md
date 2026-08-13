@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 10 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -35,6 +35,6 @@ scholar:
 
 I am a Postdoctoral Researcher at [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/), member of [SANDS Lab](https://sands.kaust.edu.sa/) led by [Prof. Marco Canini](https://mcanini.github.io/).
 
-My research interests span computer networks and distributed systems, with a focus on **network observability** and the application of **agentic AI** to networked systems. I am currently exploring how Large Language Models can empower network operators to diagnose failures more effectively. My previous work has focused on designing systems that harness programmable network hardware to achieve real-time, cost-efficient observability.
+My research interests span computer networks and distributed systems, with a focus on **observability** and **agentic AI** applied to networked systems. I am exploring how network operators could use LLMs to diagnose and fix failures, without compromising reliability and integrity. I also aim to make telemetry faster, cheaper, and less intrusive for applications by leveraging programmable network hardware.
 
 I received my Ph.D. in Electrical, Electronics and Communications Engineering from [Politecnico di Torino](https://www.polito.it/) (Italy) in 2024, where I was advised by [Prof. Paolo Giaccone](https://www.telematica.polito.it/member/paolo-giaccone/) and [Prof. Andrea Bianco](https://www.telematica.polito.it/member/andrea-bianco/). I hold a M.S. in Communications and Computer Networks Engineering (2020) from Politecnico di Torino and a B.Eng. in Computer Engineering (2017) from [Università di Bologna](https://www.unibo.it/).
