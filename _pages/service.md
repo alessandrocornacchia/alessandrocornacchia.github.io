@@ -7,11 +7,19 @@ nav: true
 nav_order: 4
 ---
 
+#### Scientific Committee member
+
+- [RSAIS 2027](https://www.kaust.edu.sa/events/rsais27/) -- KAUST Rising Stars in AI Symposium, leading the selection for Agentic AI
+
 #### Program Committee member
 
 - [RSAIS 2026](https://www.kaust.edu.sa/events/rsais26/) -- KAUST Rising Stars AI Symposium
 - [INET4AI 2025](https://irtf-net4ai.github.io/inet4ai/cfp.html), co-located with ACM CoNEXT -- 1st Workshop on Inter-networking challenges for AI
 - [APNet 2025](https://conferences.sigcomm.org/events/apnet2025/index.php) -- 9th ACM Asia-Pacific Workshop on Networking 
+
+#### Invited talks
+
+- **Invited speaker**: *At the crossroads of Standards and Research: AI/ML datasets for future networks*, 3rd ITU-T workshop, online, October 26, 2026
 
 #### Reviewer
 
