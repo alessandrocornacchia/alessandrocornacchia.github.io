@@ -7,6 +7,10 @@ nav: true
 nav_order: 4
 ---
 
+#### Organizing Committee member
+
+- [ACM CoNEXT 2027](https://conferences.sigcomm.org/co-next/2027/) -- Travel Grants Co-Chair
+
 #### Scientific Committee member
 
 - [RSAIS 2027](https://www.kaust.edu.sa/events/rsais27/) -- KAUST Rising Stars in AI Symposium, leading the selection for Agentic AI
