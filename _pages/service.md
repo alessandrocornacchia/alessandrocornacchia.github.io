@@ -17,6 +17,7 @@ nav_order: 4
 
 #### Program Committee member
 
+- [ACM CoNEXT 2027](https://conferences.sigcomm.org/co-next/2027/) -- Technical Program Committee (invited)
 - [RSAIS 2026](https://www.kaust.edu.sa/events/rsais26/) -- KAUST Rising Stars AI Symposium
 - [INET4AI 2025](https://irtf-net4ai.github.io/inet4ai/cfp.html), co-located with ACM CoNEXT -- 1st Workshop on Inter-networking challenges for AI
 - [APNet 2025](https://conferences.sigcomm.org/events/apnet2025/index.php) -- 9th ACM Asia-Pacific Workshop on Networking 
